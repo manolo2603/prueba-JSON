@@ -1,0 +1,42 @@
+
+{
+    "secciones": [
+        {
+            "categoria": "hasbro",
+            "productos": [
+              {
+                  "id": 1,
+                  "nombre": "Risk Hasbro",
+                  "descrmini": "Risk: Elabora tu estrategia cuidadosamente, para guiar a tus tropas",
+                  "descrcompleta": "El Risk es un juego de turnos de dos a seis jugadores. Se juega en un tablero con un mapa político simplificado del mundo, dividido en cuarenta y dos territorios, que están agrupados en seis continentes. Cada jugador, por turnos, coloca una tropa en un territorio hasta que no queden territorios libres.",
+                  "precio":"1,000.000",
+                  "image":"./img/seccion1/risk.jpg"
+              },
+              {
+                "id": 2,
+                  "nombre": "Marvel Legends X Men",
+                  "descrmini": "Marvel Legends X Men Classic Hasbro Juguete Colección Build A Figure Hasbro Blink.",
+                  "descrcompleta": "Con casi 80 años de historia en las historietas para inspirarse, Marvel Legends Series les ofrece a los fans una impresionante línea de artículos de colección premium, diseñados con lujo de detalles.",
+                  "precio":"499.000",
+                  "image":"../img/seccion1/Marvelx.PNG"  
+              }, 
+              {
+                "id": 3,
+                  "nombre": "Monopoly Hasbro",
+                  "descrmini": "Monopoly Hasbro Podrán participar de 2 a 6 jugadores, Juego con sonido.",
+                  "descrcompleta": "Edad recomendada de 8 años en adelante, Podrán participar de 2 a 6 jugadores, Juego con sonido",
+                  "precio":"399.000",
+                  "image":"../img/seccion1/monomario.PNG"   
+              },
+              {
+                "id": 4,
+                "nombre": "Figura de Acción Hasbro Transformer",
+                "descrmini": "Figura de Acción Hasbro Transformer ¡La nave que incluye esta figura, se convierte en una armadura!.",
+                "descrcompleta": "¡Separa el vehículo del arca y une las piezas a la figura para blindar a Optimus Prime! La nave espacial del Auto Bot se convierte en una armadura lista para el combate que activa un movimiento de ataque cuando la unes a la figura.s",
+                "precio":"509.000",
+                "image":"./img/seccion1/trasforme.PNG" 
+              }
+            ]
+        }
+    ]
+}
